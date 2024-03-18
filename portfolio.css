@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: #eaeaea;
+}
+
+.container {
+    /* display: flex; 
+    justify-content: space-between;
+    align-items: center;*/
+    /* max-width: 960rem; */
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+img{
+    border-radius: 50px;
+}
+
+ul{
+    padding: 0;
+
+}
+
